@@ -1,1 +1,0 @@
-window.CHRIS_CLUB_SERVER_URL = window.CHRIS_CLUB_SERVER_URL || "";
